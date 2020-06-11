@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/CS50.iml" filepath="$PROJECT_DIR$/../../.idea/CS50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Monopoly/Monopoly/.idea/Monopoly.iml" filepath="$PROJECT_DIR$/../../../../../Monopoly/Monopoly/.idea/Monopoly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SQL/.idea/SQL.iml" filepath="$PROJECT_DIR$/../../SQL/.idea/SQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project0.iml" filepath="$PROJECT_DIR$/.idea/project0.iml" />
+    </modules>
+  </component>
+</project>

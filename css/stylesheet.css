@@ -1,0 +1,33 @@
+body{
+  /* padding-top:10px; */
+  /* padding-left:30px;
+  padding-right:30px; */
+}
+h1{
+  text-align:center;
+  padding-top:75px;
+}
+@media screen and (min-width:800px) {
+  section{
+    padding-left:20%;
+    padding-right:20%;
+  }
+}
+#navigation{
+  overflow:auto;
+  position:fixed;
+  top:0;
+  width:100%;
+}
+#navigation a:hover{
+  background-color:rgb(187, 180, 280);
+}
+#navigation > a{
+  color:rgb(0, 0, 0)
+}
+img{
+  width:75%;
+}
+footer{
+  text-align:center;
+}
