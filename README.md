@@ -1,5 +1,7 @@
 # Project 0
 
+Video Walkthrough: https://youtu.be/R83xXa0t-Pk
+
 Web Programming with Python and JavaScript
 Hello,
 index.html -- contains the home page to my webpage; there is an image; there is an unordered list;
